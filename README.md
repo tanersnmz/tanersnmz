@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Taner Giray Sönmez</h1>
 
-- 🔭 I’m currently studying for a Master’s in Computer Science with a focus on Machine Learning at [Columbia University](https://www.cs.columbia.edu/).
+- 🔭 I graduated with a Master’s in Computer Science with a focus on Machine Learning at [Columbia University](https://www.cs.columbia.edu/).
 
 - 🌱 Personal website: [tanersonmez.com](https://www.tanersonmez.com/)
 
